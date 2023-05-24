@@ -27,4 +27,4 @@ Main이 종료되면 stack에 저장된 데이터는 삭제 된다. 그러나 he
 더 이상 아무도 참조하지 않게 된 heap 영역의 String 객체는 사용되지 않고 남아 있는데 이를 Unreachable Object라 한다. 
 반대로 계속해서 참조되고 있는 객체를 Reachable Object 라고 한다.
 
-<img width="80%" src="https://github.com/inchojeong/ihtc_BigData_middle_Assign/issues/1#issue-1723109966"/>
+<img width="80%" src="https://github.com/inchojeong/ihtc_BigData_middle_Assign/assets/100347858/b20f3568-7805-48e9-992b-c595f9f1247c"/>
